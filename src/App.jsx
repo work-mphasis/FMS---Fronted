@@ -5,6 +5,7 @@ import FreshersPage from "./pages/FreshersPage";
 import NotFoundPage from "./pages/NotFoundPage";
 
 export default function App() {
+	//Hello
   return (
     <Routes>
       <Route path="/login" element={<LoginPage />} />
